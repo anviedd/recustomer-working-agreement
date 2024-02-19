@@ -11,3 +11,8 @@
 (追記したい場合には、この行以降に追加してください)
 
 - 他メンバーに相談事項がある際、事前連絡なしで Slack のハドルをかけて良い。
+
+### Setup
+
+- Slack上で`/github signin`でSlackと自身のGitHubアカウントを連携してください
+- LinearとSlackを連携してLinearからSlackに対して通知が来るようにてください
