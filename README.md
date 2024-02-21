@@ -23,3 +23,8 @@
 - リポジトリに設定されている全ての CI が成功したら、レビュワーにメンションをつけてレビュー依頼をする
 - Pull Request が Approve されたら、Pull Request 作成者がマージする
 - 基本的にデフォルトブランチに直接修正コードを push しない。ただしやむを得ない時には、事前に他エンジニアに連絡した上でデフォルトブランチに push しても良い
+
+### Setup
+
+- Slack上で`/github signin`でSlackと自身のGitHubアカウントを連携してください
+- LinearとSlackを連携してLinearからSlackに対して通知が来るようにてください
