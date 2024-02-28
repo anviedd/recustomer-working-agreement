@@ -30,3 +30,15 @@
 
 - Slack上で`/github signin`でSlackと自身のGitHubアカウントを連携してください
 - LinearとSlackを連携してLinearからSlackに対して通知が来るようにてください
+
+
+### Daily Stand up
+
+- リモートワークする場合、slackの「-all-greetings」チャンネルでリモートすることを全体に周知する(正社員)
+- 体調不良などで急遽有休を取得する場合、slackの「-all-greetings」チャンネルで全体に周知する(正社員)
+- 稼働前にslackの「dev-daily」」チャンネルの「Daily Standup」ワークフローから送信されるメッセージのスレッドに下記を入力する。正社員については後述のDaily standup mtg前に記入する
+    - 前日の対応
+    - 本日の予定
+- 10:15より、Daily Standup MTGを行う。
+    - slackの「dev-daily」」チャンネルのハドルで行う。カメラOffで問題ない
+    - 「前日の対応」「本日の予定」を共有する
