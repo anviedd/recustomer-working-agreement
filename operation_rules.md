@@ -1,5 +1,8 @@
 ## Operation Rules Recustomer Working Agreement
 
+このドキュメントは、このリポジトリの運用ルールです！
+新規に約束事を追記したい時には、README.mdに記載してください！
+
 ### 約束事を追加 / 修正したい時
 
 - 約束事の追加 修正は「誰がいつ行っても OK」です！！
